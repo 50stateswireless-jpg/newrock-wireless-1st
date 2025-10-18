@@ -1,8 +1,18 @@
 - id: 9
-  name: "Basic Talk & Text"
+  name: "Gen Mobile Plan"
   category: "Plan"
-  price: 29.99
-  description: "Unlimited talk and text with 5GB of high-speed data per month. Perfect for staying connected on a budget. Billed monthly."
+  price: 10.00
+  description: "High speed data:
+
+Enjoy 1GB of data at 5G/4G speed and at 128 kbps thereafter.
+
+Unlimited calling to 100+ international destinations:
+
+Keep in touch with friends and family around the world while in the U.S. with unlimited calling to 100+ international destinations. You can call up to 20 unique international phone numbers during the month. See genmobile.com/intl for list of unlimited destinations.
+
+Mobile hotspot:
+
+Use your smartphone as a Wi-Fi hotspot for other devices like tablets, laptops and more. Data pulls from your plan’s 5G/4G speed data allotment.."
   image: "https://placehold.co/400x300/1E40AF/FFFFFF?text=Basic+Plan"
 
 - id: 10
