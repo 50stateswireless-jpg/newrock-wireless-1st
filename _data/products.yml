@@ -30,10 +30,40 @@ Use your smartphone as a Wi-Fi hotspot for other devices like tablets, laptops a
   image: "https://placehold.co/400x300/3B82F6/FFFFFF?text=Unlimited"
 
 - id: 1
-  name: "NewRock Pro Laptop X1"
+  name: "Exclusive Verizon savings"
   category: "Internet Service"
-  price: 1299.99
-  description: "Ultra-thin powerful laptop with 14-inch display, 32GB RAM, and 1TB SSD. Perfect for professionals."
+  price:84.99/mo*
+
+  description: "
+1 Gig includes:
+Availability varies. Gigabit network connection to your home. Wired and wireless speeds vary due to device limits, multiple users, network & other factors. See verizon.com/yourspeed for more info.
+Additional Extenders are available to rent or purchase. Verizon owns the equipment provided with your plan, including the Verizon Router and Wi-Fi extender. If you choose to disconnect service, you must return equipment within 30 days, or you'll incur charges 
+
+    Must be 18 years of age or older to enroll.
+
+    U.S. only.
+
+    Access content from each service separately.
+
+    Disney+ may be upgraded and downgraded via Disney+.
+
+    Hulu may be upgraded and downgraded via Hulu.
+
+    ESPN+ may be upgraded and downgraded via ESPN+.
+
+    Location data is required to watch certain content.
+
+    Enrolling in the Disney+, Hulu, ESPN+ (With Ads) plan perk may affect existing subscriptions to a Disney bundle, Disney+, Hulu, or ESPN+. Review the Terms & Conditions for instructions.
+
+    EXISTING DISNEY+, HULU OR ESPN+ SUBSCRIBERS: Offer will not automatically replace existing subscription(s). After enrolling in the Disney+, Hulu, ESPN+ (With Ads) plan perk, you will need to complete account setup separately for each service. Managing subscriptions may be required to avoid multiple subscriptions and corresponding charges.
+
+    For existing Hulu subscribers, you may need to manage your subscription to complete account setup.
+
+    $6.99/mo perk savings based on the current $16.99/mo that Verizon subscribers pay for Disney+, Hulu, ESPN+ (With Ads) less the $10/mo myHome perk.
+
+    Fios Home Internet plans (except Classic Standalone) are eligible to purchase the Disney+, Hulu, ESPN+ (With Ads) perk.
+
+    Subject to Disney+, Hulu, and ESPN+ Subscriber Agreement. . ."
   image: "https://placehold.co/400x300/1E40AF/FFFFFF?text=Laptop+X1"
 
 - id: 2
