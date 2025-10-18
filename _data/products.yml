@@ -16,10 +16,10 @@ Use your smartphone as a Wi-Fi hotspot for other devices like tablets, laptops a
   image: "https://placehold.co/400x300/1E40AF/FFFFFF?text=Basic+Plan"
 
 - id: 10
-  name: "Freedom Plus Plan"
+  name: " Xfinity Mobile Plan"
   category: "Plan"
-  price: 49.99
-  description: "Get 50GB of premium high-speed data, unlimited talk & text, and mobile hotspot capabilities. Billed monthly."
+  price: 42.50
+  description: " $42.50/mo Get the Samsung Galaxy S25 Ultra , 5G ,512GB,Promo pricing requires activation of a new line, number transfer, and paying over 24 months Billed monthly. Galaxy S25 Ultra redefines the way you interact with your phone. Its ergonomic design features smoother edges and a comfortable grip for effortless handling, while the redesigned One UI 7 streamlines every task. Whether you’re enjoying long gaming sessions or navigating Galaxy AI tools, Galaxy S25 Ultra feels as good as it performs.                                      ."
   image: "https://placehold.co/400x300/DC2626/FFFFFF?text=Plus+Plan"
 
 - id: 11
