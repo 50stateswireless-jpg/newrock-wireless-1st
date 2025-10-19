@@ -132,10 +132,18 @@ About fliggs
   image: "https://placehold.co/400x300/1E40AF/FFFFFF?text=Basic+Plan"
 
 - id: 10
-  name: " Xfinity Mobile Plan"
+  name: "  Consumer Cellular Plan"
   category: "Plan"
-  price: 42.50
-  description: " $42.50/mo Get the Samsung Galaxy S25 Ultra , 5G ,512GB,Promo pricing requires activation of a new line, number transfer, and paying over 24 months Billed monthly. Galaxy S25 Ultra redefines the way you interact with your phone. Its ergonomic design features smoother edges and a comfortable grip for effortless handling, while the redesigned One UI 7 streamlines every task. Whether you’re enjoying long gaming sessions or navigating Galaxy AI tools, Galaxy S25 Ultra feels as good as it performs. ."
+  price: 45.00
+  description: " 
+Unlimited Talk/Txt/20GB Data
+1 Line
+Included
+Unlimited Data
+Unlimited Talk & Text
+$45/Month
+$45 due monthly
+. ."
   image: "https://placehold.co/400x300/DC2626/FFFFFF?text=Plus+Plan"
 
 - id: 11
