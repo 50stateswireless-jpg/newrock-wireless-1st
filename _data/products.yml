@@ -419,7 +419,7 @@ So you don’t need to worry about unexpected price hikes.
 - id: 8
   name: " XNET WIFI Data Plans 25GB "
   category: "Wifi"
-  price: $65.00
+  price: 65.00
   description: "  
 Data Plans
 
