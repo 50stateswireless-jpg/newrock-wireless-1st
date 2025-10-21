@@ -191,7 +191,7 @@ AutoPay and paperless billing discount
 - id: 1
   name: "Verizon Home Internet 1GIG    "
   category: "Internet Service"
-  price: 84.99
+  price: 99.99
 
   description: "
 $99.99/Mo*  1Gig includes:  Verizon
