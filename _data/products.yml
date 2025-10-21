@@ -147,7 +147,7 @@ $45 due monthly
   image: "https://placehold.co/400x300/DC2626/FFFFFF?text=Plus+Plan"
 
 - id: 11
-  name: "  AT&T Unlimited Plan"
+  name: "  AT&T Unlimited Plan Apple iPhone 17 Pro Max - 1TB    "
   category: "Plan"
   price: 133.93
   description: "Due monthly*
@@ -160,7 +160,7 @@ Your services will auto-renew monthly at then-current rates (less any discounts 
 Price details
 Due monthly
 $133.93
-Apple iPhone 17 Pro Max - Deep Blue - 1TB
+Apple iPhone 17 Pro Max - 1TB
 $44.45
 Price for 36 mos. at 0% APR
 ONLINE ONLY: You will get an additional $200 in monthly bill credits ($5.56/mo. for 36 months) with new voice on elig. unlimited plan (speed restr's apply). Credits start within 3 bills.
@@ -189,7 +189,7 @@ AutoPay and paperless billing discount
   image: "https://placehold.co/400x300/3B82F6/FFFFFF?text=Unlimited"
 
 - id: 1
-  name: "Exclusive Verizon savings"
+  name: "Verizon Home Internet 1GIG    "
   category: "Internet Service"
   price: 84.99
 
