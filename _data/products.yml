@@ -302,9 +302,9 @@ $65.00 / month."
   image: "https://placehold.co/400x300/8B5CF6/FFFFFF?text=2TB+SSD"
 
 - id: 5
-  name: "XNET WIFI Xplorer Hotspot  "
+  name: "XNET WIFI Xplorer Hotspot 50 GB X Data Plan "
   category: "Wifi"
-  price: 149.00
+  price: 75.00
   description: " Xplorer Hotspot
 
 The Xplorer Hotspot is your pocket-sized powerhouse for fast, reliable internet anywhere. With LTE Cat 6 speeds, dual-band Wi-Fi, and support for up to 16 devices, it’s perfect for travel, work, or staying connected off the grid.
@@ -333,7 +333,7 @@ $75.00 / month."
   image: "https://placehold.co/400x300/F97316/FFFFFF?text=Keyboard"
 
 - id: 6
-  name: "XNET WIFI Xplorer Hotspot"
+  name: "Verizon Home Internet 300 Mbps  "
   category: "Internet Service"
   price: 34.99
   description: " Up to 300 Mbps speeds
