@@ -1,9 +1,0 @@
-title: NewRockWireless.com| Buy Mobile Phones , tablets, headphones , earbuds and Smartphones Plans Online
-url: "https://drutech6.github.io"
-baseurl: "/newrock-wireless"
-
-defaults:
-  - scope:
-      path: "_layouts/default.html"
-    values:
-      layout: "default"
